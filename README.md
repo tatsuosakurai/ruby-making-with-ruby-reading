@@ -20,7 +20,7 @@
 
 ## 3行で
 * 22時近くなったら、チャットに集まります
-* [chat](https://gitter.im/ruby-making-with-ruby-reading/Lobby?source=orgpage)
+* [チャット](https://gitter.im/ruby-making-with-ruby-reading/Lobby?source=orgpage)
  で読書します
 * 23時になったら、次回の予定を確認して、終わります
 
